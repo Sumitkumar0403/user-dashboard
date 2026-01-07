@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-d
 // Lazy Load Pages
 const UsersList = lazy(() => import("./pages/users/UsersList"));
 const UserDetails = lazy(() => import("./pages/users/UserDetails"));
-const Analytics = lazy(() => import("./pages/Analytics/Analytics"));
+const Analytics = lazy(() => import("./pages/analytics/Analytics"));
 
 import Sidebar from "./components/layout/Sidebar";
 import Header from "./components/layout/Header";
