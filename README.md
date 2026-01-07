@@ -1,6 +1,6 @@
 # User Management + Analytics Dashboard
 
-**🔗 [Live Demo](https://user-dashboard-ruddy-theta.vercel.app/users)**
+**🔗 [Live Demo](https://user-dashboard-psi-three.vercel.app/users)**
 
 A modern, responsive Admin Dashboard built with React and Tailwind CSS. It features user management (CRUD-like operations), real-time filtering/sorting, and visual analytics.
 
