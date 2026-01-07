@@ -2,8 +2,8 @@
 
 A modern, responsive Admin Dashboard built with React and Tailwind CSS. It features user management (CRUD-like operations), real-time filtering/sorting, and visual analytics.
 
-![Admin Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Preview) 
-*(Note: Replace with actual screenshot path if available)*
+![Admin Dashboard](https://user-dashboard-ruddy-theta.vercel.app/users) 
+
 
 ## 🚀 How to Run
 
